@@ -50,6 +50,4 @@ class Song
     new_hash
   end
   
-  
-  
 end
